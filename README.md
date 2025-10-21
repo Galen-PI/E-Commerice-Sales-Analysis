@@ -25,6 +25,6 @@ Outcomes
 Dataset
 The project uses a real-world, uncleaned transactional dataset (42k+ rows) containing customer purchases, product categories, and campaign identifiers.
 
-Tableau Link: [Insert In Future]
+Tableau Link: https://public.tableau.com/app/profile/galen.pike/viz/BusinessProjectPortfolio/Dashboard1#1
 
 **Dataset:** The dataset used in this project (42k+ transactions) is available on [Kaggle] https://www.kaggle.com/datasets/ikramshah512/amazon-products-sales-dataset-42k-items-2025 Download it and place it in the `data/` folder before running the analysis.
