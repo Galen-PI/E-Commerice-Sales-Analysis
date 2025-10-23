@@ -1,4 +1,4 @@
-# Business Portfolio Project
+# E-Commerice-Sales-Analysis
 > An end-to-end data analytics project analyzing e-commerce sales, discounts, and purchase efficiency to uncover business insights and actionable strategies.
 
 ---
