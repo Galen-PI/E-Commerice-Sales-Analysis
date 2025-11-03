@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Analysis
+# E-Commerce Sales Analysis
 
 **Version:** End-to-End Analysis | **Tools:** Python, Pandas, Tableau, scikit-learn
 
